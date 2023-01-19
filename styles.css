@@ -20,4 +20,17 @@ body {
 
 .info p {
   color: #86898f;
+  margin: 0;
+  font-style: italic;
+  font-weight: bolder;
+  /* letter-spacing: 2px; */
+}
+/* Box Model  */
+.container {
+  max-width: 750px;
+  margin: auto;
+}
+.social {
+  background: red;
+  padding: 15px;
 }
